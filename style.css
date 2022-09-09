@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+  font-size: 1cm;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  font-size: 0.8cm;
+  line-height: 2cm;
+}
+
+p {
+  text-align: center;
+}
+
+* {
+  max-width: 5000px;
+  margin: auto;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 0.5cm;
+  margin-bottom: 0.5cm;
+}
+
+.stuff {
+  display: inline-block;
+  margin-top: 1cm;
+  margin-left: 6cm;
+  margin-right: 6cm;
+  margin-bottom: 0.5cm;
+  width: 75%;
+  height: 2200px;
+  background-color: rgb(227, 227, 228);
+}
+
+p,
+li {
+  font-size: 0.5cm;
+  line-height: 1.5cm;
+}
